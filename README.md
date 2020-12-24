@@ -11,6 +11,18 @@
 - 🎥 Cinematographer
 - 😻 Cats Lover
 
+### TLDR;
+
+I'm a self-taught software engineer who struggles to get better
+day by day & give back to the community as much as I can.
+
+**`bottom_line`**:
+- `I do copy & paste`
+- `I make mistakes`
+- `I learn`
+- `I constantly move on`
+- `I` ***goto*** `bottom_line`
+
 ### Connect with me
 
 <div>
@@ -38,7 +50,11 @@
         <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
     </a>
     <br/>
-    &nbsp;&nbsp; <a href="https://www.linkedin.com/in/steevehook/" target="_blank">
+    &nbsp;&nbsp; <a href="https://medium.com/@steevehook" target="_blank">
+        <img src="https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://www.patreon.com/steevehook" target="_blank">
         <img src="https://img.shields.io/badge/patreon-%2324292e.svg?&style=for-the-badge&logo=patreon&logoColor=white" alt="patreon" style="margin-bottom: 5px;"/>
     </a>
 </div>
