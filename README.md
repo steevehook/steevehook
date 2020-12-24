@@ -13,20 +13,32 @@
 
 ### Connect with me
 
-&nbsp; &nbsp; <a href="https://www.youtube.com/c/SteveHook"><img alt="youtube" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/youtube.svg"/></a>
-
-&nbsp; &nbsp; <a href="https://discord.gg/wJKGV9Vb"><img alt="discord" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/discord.svg"/></a>
-
-&nbsp; &nbsp; <a href="https://www.facebook.com/steevehookfb"><img alt="facebook" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/facebook.svg"/></a>
-
-&nbsp; &nbsp; <a href="http://instagram.com/steevehook"><img alt="instagram" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/instagram.svg"/></a>
-
-&nbsp; &nbsp; <a href="https://twitter.com/steevehook"><img alt="twitter" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/twitter.svg"/></a>
-
-&nbsp; &nbsp; <a href="https://www.linkedin.com/in/steevehook/"><img alt="twitter" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/twitter.svg"/></a>
-
-### Wanna support? <a href="https://www.linkedin.com/in/steevehook/"><img alt="twitter" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/patreon.svg"/></a>
-
-&nbsp; &nbsp; <a href="https://www.youtube.com/c/SteveHook"><img alt="youtube" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/youtube.svg"/></a>
-
-&nbsp; &nbsp; <a href="https://www.youtube.com/c/SteveHook"><img alt="youtube" width="30px" src="https://rawcdn.githack.com/steevehook/steevehook/9a3e144e70604bf3c8df08b333a67e9bb87e83d5/images/youtube.svg"/></a>
+<div>
+    &nbsp;&nbsp; <a href="https://www.youtube.com/c/SteveHook" target="_blank">
+        <img src="https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://discord.gg/wJKGV9Vb" target="_blank">
+        <img src="https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://www.facebook.com/steevehookfb" target="_blank">
+        <img src="https://img.shields.io/badge/facebook-%2324292e.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="http://instagram.com/steevehook" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://twitter.com/steevehook" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://www.linkedin.com/in/steevehook/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://www.linkedin.com/in/steevehook/" target="_blank">
+        <img src="https://img.shields.io/badge/patreon-%2324292e.svg?&style=for-the-badge&logo=patreon&logoColor=white" alt="patreon" style="margin-bottom: 5px;"/>
+    </a>
+</div>
