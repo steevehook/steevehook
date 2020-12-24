@@ -1,7 +1,6 @@
-### Hi there 👋
+# Steve Hook
 
-<!--
-**steevehook/steevehook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="profile picture" src="https://github.com/steevehook/steevehok/blob/master/images/stevehook.png"/>
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
