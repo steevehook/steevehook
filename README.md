@@ -1,6 +1,6 @@
 # Steve Hook
 
-<img alt="profile picture" src="https://github.com/steevehook/steevehok/blob/main/images/stevehook.png"/>
+<img alt="profile picture" width="500px" src="https://rawcdn.githack.com/steevehook/steevehook/08e319ed33a76dc775bcac10a726b05160aa1af8/images/stevehook.png"/>
 
 Here are some ideas to get you started:
 
