@@ -87,5 +87,3 @@ day by day & give back to the community as much as I can.
         <img src="https://img.shields.io/badge/patreon-%2324292e.svg?&style=for-the-badge&logo=patreon&logoColor=white" alt="patreon" style="margin-bottom: 5px;"/>
     </a>
 </div>
-
-<a href="https://www.patreon.com/bePatron?u=21061813" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
