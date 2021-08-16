@@ -59,7 +59,7 @@ day by day & give back to the community as much as I can.
         <img src="https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;"/>
     </a>
     <br/>
-    &nbsp;&nbsp; <a href="https://discord.gg/wJKGV9Vb" target="_blank">
+    &nbsp;&nbsp; <a href="https://discord.gg/tprewQu" target="_blank">
         <img src="https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
     </a>
     <br/>
